@@ -1,1 +1,2 @@
 this is my first git project! This was my first Git project
+we tried to do the git push!
